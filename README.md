@@ -1,6 +1,6 @@
 # To-Do List Python Code
 
-This repository contains a simple Python code for a To-Do List application. The application allows users to add, remove, and mark tasks as completed.
+This repository contains a simple Python code for a To-Do List application. The application allows users to add, remove, and mark tasks as completed. The code is from <a href="https://www.pricetrolley.com/">Price Trolley</a>.
 
 ## Table of Contents
 - [Features](#features)
